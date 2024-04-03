@@ -7,7 +7,7 @@
 
 
 
-### A Quantum Software Engineer (July, 2023 - Now)
+### A Quantum Software Engineer (July, 2023 - Now):
 [![Quantum AI](https://avatars.githubusercontent.com/u/31279789?s=48&v=4)](https://quantumai.google/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QGklhZgAAAAJ&hl=en)
 
@@ -33,5 +33,13 @@
 ![](https://raw.githubusercontent.com/NoureldinYosri/my-cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 ### Github stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureldinyosri&hide=jupyter%20notebook,html,css,javascript&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api?username=noureldinyosri&count_private=true&show_icons=true&theme=tokyonight"/>
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noureldinyosri&hide=jupyter%20notebook,html,css,javascript&theme=tokyonight"/>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=noureldinyosri&count_private=true&show_icons=true&theme=tokyonight"/>
+        </td>
+    </tr>
+</table>
