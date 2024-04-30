@@ -28,9 +28,9 @@
 ### Competitive Programming 2013-2020 (now retired):
 ![](https://projecteuler.net/profile/Noureldin.png)
 [<img src="https://icpc.global/static/media/icpc-medium5.5c857487.png"/>](https://icpc.global/ICPCID/LT8YMZ4O6VLU)
-[<img src="https://raw.githubusercontent.com/NoureldinYosri/my-cf-stats/main/output/max_rating.svg" height="40" width="auto" />](https://codeforces.com/profile/Noureldin)
+[<img src="https://raw.githubusercontent.com/NoureldinYosri/NoureldinYosri/main/figures/max_rating.svg" height="40" width="auto" />](https://codeforces.com/profile/Noureldin)
 
-![](https://raw.githubusercontent.com/NoureldinYosri/my-cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NoureldinYosri/NoureldinYosri/main/figures/light_card.svg#gh-dark-mode-only)
 
 ### Github stats
 <table>
